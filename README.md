@@ -1,2 +1,5 @@
-# Candev-2022
-CANDEV 2022 
+# CanDev2022
+
+Challenge: What percentage of the unemployed during COVID-19 were assisted by the Canadian Recovery Benefit
+
+Team: CapU BIMA 
